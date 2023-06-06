@@ -1,8 +1,17 @@
+This is a technical test for an API for e-commerce.
+
+-Create cart.
+-Add Products.
+-Update cart.
+-Get information of the cart with its products.
+-Delete a cart not active in the last 10 minutes.
+
+
 ```JAVA```
 
 This spring boot project has been created for the java 8 version. 
 When you are going to run it, verify that you have correctly installed 
-the java 17 version in your machine, as well as that in your environment variables, 
+the java 8 version in your machine, as well as that in your environment variables, 
 JAVA_HOME points to the folder in which you have your jdk-8 [eg: 'C:\Program Files\Java\jdk-1.8.0']
 
 ```MAVEN```
