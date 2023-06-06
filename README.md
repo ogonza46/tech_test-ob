@@ -1,9 +1,13 @@
 This is a technical test for an API for e-commerce.
 
 -Create cart.
+
 -Add Products.
+
 -Update cart.
+
 -Get information of the cart with its products.
+
 -Delete a cart not active in the last 10 minutes.
 
 
